@@ -15,13 +15,14 @@ Just un comment the #banner rule below. */
   padding: 10em 4em 9em 4em;
 } */
 
-
+.image center
+{ padding-left: 50%;}
 
 /* If you want to change the banner button color. The following two css rules use a class called "redbtn".
 You can call the class whatever you want, but in order for it to work, it needs to be
 added to the button in the index html file as well.*/
 #banner.button.redbtn {
-  background-color: rgba(red, green, blue, alpha);
+  background-color: rgba(188, 46, 26, 1);
   box-shadow: none;
 }
 
